@@ -253,6 +253,7 @@ abstract class DJIMainActivity : AppCompatActivity() {
     }
 
     private fun takeoff(){
+        // This has to be improved a bit
         val callback = object :
             CommonCallbacks.CompletionCallbackWithParam<EmptyMsg> {
             override fun onSuccess(t: EmptyMsg?) {
