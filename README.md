@@ -1,6 +1,6 @@
 # How to use
 
-The Mobile SDK allows to program the Mini 3 Pro drone. It provides a library to access the drone hardware features. 
+The Mobile SDK allows to program the Mini 3 Pro drone. It provides a library to access the drone hardware features. This is the basic setup for our CBR Flying Robots competition.
 
 Pre-requisites:
 > - MSDK version: 5.12.0
